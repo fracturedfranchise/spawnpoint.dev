@@ -1,3 +1,20 @@
 {
-	"siteId": "f9283983-da4a-4b45-af12-2be0402f498a"
+	"siteId": "f9283983-da4a-4b45-af12-2be0402f498a",
+	"geolocation": {
+		"data": {
+			"city": "Hampstead",
+			"country": {
+				"code": "US",
+				"name": "United States"
+			},
+			"subdivision": {
+				"code": "NC",
+				"name": "North Carolina"
+			},
+			"timezone": "America/New_York",
+			"latitude": 34.3914,
+			"longitude": -77.6597
+		},
+		"timestamp": 1708804547138
+	}
 }
