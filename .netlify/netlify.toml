@@ -7,7 +7,7 @@ redirects = []
 [functions."*"]
 
 [build]
-publish = ""
+publish = "build"
 publishOrigin = "default"
 command = "npm run build"
 commandOrigin = "heuristics"

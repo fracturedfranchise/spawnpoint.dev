@@ -1,7 +1,7 @@
 import React from "react";
 
 import "./Banner.scss";
-import Background from "../Images/TD_Banner.svg"
+import Background from "../Images/SpawnpointBanner.svg"
 import DiscordIcon from "../Images/Discord_Icon.svg"
 import RobloxIcon from "../Images/Roblox_Icon.svg"
 
