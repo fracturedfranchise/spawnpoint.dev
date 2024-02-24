@@ -1,0 +1,29 @@
+plugins = []
+headers = []
+redirects = []
+
+[functions]
+
+[functions."*"]
+
+[build]
+publish = "C:\\Users\\wyatt\\Desktop\\Spawnpoint Interactive\\website\\spawnpoint.dev"
+publishOrigin = "default"
+command = "npm run build"
+commandOrigin = "heuristics"
+
+[build.environment]
+NODE_VERSION="20.11.1"
+NPM_VERSION="10.2.4"
+
+[build.processing]
+
+[build.processing.css]
+
+[build.processing.html]
+
+[build.processing.images]
+
+[build.processing.js]
+
+[build.services]
