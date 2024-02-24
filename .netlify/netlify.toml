@@ -7,9 +7,8 @@ redirects = []
 [functions."*"]
 
 [build]
-publish = "C:\\Users\\wyatt\\Desktop\\Spawnpoint Interactive\\website\\spawnpoint.dev"
-publishOrigin = "default"
-command = "npm run build"
+publish = "build"
+command = "npm run build & serve -s build"
 commandOrigin = "heuristics"
 
 [build.environment]
