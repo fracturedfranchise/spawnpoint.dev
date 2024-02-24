@@ -1,0 +1,148 @@
+@font-face {
+    font-family: 'Mona-Sans Medium';
+    src:
+      url('/Fonts/Mona Sans/WOFF 2/Mona-Sans-Medium.woff2') format('woff2 supports variations'),
+      url('/Fonts/Mona Sans/WOFF 2/Mona-Sans-Medium.woff2') format('woff2-variations');
+    font-weight: 200 900;
+    font-stretch: 75% 125%;
+}
+
+@font-face {
+    font-family: 'Mona-Sans Black Wide';
+    src:
+      url('/Fonts/Mona Sans/WOFF 2/Mona-Sans-BlackWide.woff2') format('woff2 supports variations'),
+      url('/Fonts/Mona Sans/WOFF 2/Mona-Sans-BlackWide.woff2') format('woff2-variations');
+    font-weight: 200 900;
+    font-stretch: 75% 125%;
+}
+
+@font-face {
+    font-family: 'Mona-Sans';
+    src:
+      url('/Fonts/Mona Sans/Mona-Sans.woff2') format('woff2 supports variations'),
+      url('/Fonts/Mona Sans/Mona-Sans.woff2') format('woff2-variations');
+    font-weight: 200 900;
+    font-stretch: 75% 125%;
+}
+
+@font-face {
+    font-family: 'Mona-Sans Medium Wide';
+    src:
+      url('/Fonts/Mona Sans/WOFF 2/Mona-Sans-MediumWide.woff2') format('woff2 supports variations'),
+      url('/Fonts/Mona Sans/WOFF 2/Mona-Sans-MediumWide.woff2') format('woff2-variations');
+    font-weight: 200 900;
+    font-stretch: 75% 125%;
+}
+
+:root {
+    --background-color: #121117;
+    --background-color-light: #191820;
+    --background-color-lighter: #22212C;
+
+    --discord-button-color: #6370F4;
+    --roblox-button-color: linear-gradient(195.36deg, #FEFFFF 16.35%, #A0ADBD 83.24%);
+    --special-button-color: linear-gradient(97.53deg, #00DBDB -0.1%, #00E591 99.9%);
+
+    --blur-color: hsla(0, 0%, 0%, 0.25);
+
+    --text-color: #FFFFFF;
+    --text-alt-color: #000000;
+    --highlight-color: #E2B2FD;
+}
+
+::selection {
+    color: var(--background-color);
+    background: var(--highlight-color);
+}
+
+p, h1, h2, h3, h4, div {
+    color: var(--text-color);
+}
+  
+.App {
+    position: relative;
+    
+    width: 100%;
+    height: 100%;
+    left: 0;
+
+    text-align: center;
+    background-color: var(--background-color);
+}
+
+html {
+    overflow-y: auto;
+    overflow-x: hidden;
+    height: 100%;
+}
+
+html, body, #root, .App {
+    font-family: "Mona-Sans", sans-serif;
+
+    scrollbar-color: var(--highlight-color) #0000003b;
+    scrollbar-width: thin;
+
+    ::-webkit-scrollbar {
+        width: 10px;
+    }
+
+    ::-webkit-scrollbar-track {
+        background: #0000003b;
+    }
+
+    ::-webkit-scrollbar-thumb {
+        background-color: var(--highlight-color);
+        border-radius: 20px;
+        border: 3px solid #0000003b;
+    }
+    
+    overflow-x: hidden;
+}
+
+body {
+    margin: 0;
+}
+
+b, strong, h1, h2, h3, h4, h5, h6 {
+    margin: 0px;
+}
+
+p {
+    margin: 0px;
+    line-height: 1rem;
+
+    font-family: "Mona-Sans Medium";
+}
+
+a {
+    font-weight: 500;
+    text-decoration: none;
+    color: var(--text-color);
+}
+
+h1 {
+    font-family: "Mona-Sans Black Wide", "Mona Sans", sans-serif;
+    font-size: 65px;
+}
+
+h2 {
+    font-family: "Mona-Sans Black Wide", "Mona Sans", sans-serif;
+    font-size: 40px;
+}
+
+b {
+    font-family: "Mona-Sans Black Wide", "Mona Sans", sans-serif;
+}
+
+p, b {
+    font-size: 16px;
+}
+
+.scroll-content {
+    width: 100%;
+    height: 100%;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
