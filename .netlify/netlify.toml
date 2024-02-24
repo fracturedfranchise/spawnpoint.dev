@@ -1,3 +1,4 @@
+plugins = []
 headers = []
 redirects = []
 
@@ -5,17 +6,9 @@ redirects = []
 
 [functions."*"]
 
-[[plugins]]
-package = "@netlify/plugin-lighthouse"
-pinned_version = "6"
-origin = "ui"
-
-[plugins.inputs]
-
 [build]
 publish = ""
-publishOrigin = "ui"
-base = ""
+publishOrigin = "default"
 command = "npm run build"
 commandOrigin = "heuristics"
 
