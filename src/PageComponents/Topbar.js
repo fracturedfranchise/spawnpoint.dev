@@ -48,7 +48,7 @@ class Topbar extends React.Component {
             <div className="topbar">
                 <div className="topbar-logo">
                     <img alt="TD" src={TDIcon}></img>
-                    <h1>Typical Developers</h1>
+                    <h1>Spawnpoint Interactive</h1>
                 </div>
                 <div className="topbar-links">
                     <a href="javascript:void(0)" className={active === "about" ? "active" : "inactive"} onClick={() => this.jumpTo("about")}>About</a>
