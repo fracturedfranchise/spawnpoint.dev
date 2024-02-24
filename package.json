@@ -2,7 +2,7 @@
   "name": "spawnpoint-home-page",
   "version": "0.1.0",
   "private": true,
-  "homepage": "build",
+  "homepage": "public",
   "dependencies": {
     "@condenast/xml-to-react": "^1.0.0",
     "@testing-library/jest-dom": "^5.16.5",
