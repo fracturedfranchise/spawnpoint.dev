@@ -32,7 +32,8 @@ function App() {
                         }
                     ]
                 }></Experiences>
-                <Team ref={teamRef} members={
+                <Team title="Our Team" desc="Everyone on this list is either actively helping out at Spawnpoint or part of our awesome Discord team!"
+                ref={teamRef} members={
                     [
                         {
                             name: "Zwei",
@@ -71,7 +72,7 @@ function App() {
                             link: "https://twitter.com/TorreTheFool"
                         },
                         {
-                            name: "katfanf",
+                            name: "Springy",
                             role: "Voice Acting",
                             image: "https://i.imgur.com/J1vgpkf.png",
                             link: "https://twitter.com/SpringyTheC_S"
@@ -96,13 +97,13 @@ function App() {
                         },
                         {
                             name: "Vintii",
-                            role: "Quality Assurance",
+                            role: "QA",
                             image: "https://i.imgur.com/CXap13i.png",
-                            link: "https://twitter.com/Ritoriam3D"
+                            link: ""
                         },
                         {
                             name: "Fredder Fastbear",
-                            role: "Quality Assurance",
+                            role: "QA",
                             image: "https://i.imgur.com/BiordUD.png",
                             link: "https://twitter.com/fredderfastbear"
                         },
@@ -112,7 +113,18 @@ function App() {
                             image: "https://i.imgur.com/i37zrVI.jpeg",
                             link: "https://x.com/elementearth100"
                         },
-                        
+                        {
+                            name: "lolmansreturn",
+                            role: "Programming Helper",
+                            image: "https://i.imgur.com/VVcPfJG.png",
+                            link: ""
+                        },
+                        {
+                            name: "Khaled",
+                            role: "QA",
+                            image: "https://i.imgur.com/HQyRmWF.png",
+                            link: "https://twitter.com/DarkestSFMZ"
+                        }
                     ]
                 }></Team>
             </div>

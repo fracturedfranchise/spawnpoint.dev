@@ -17,8 +17,8 @@ class Team extends React.Component {
         return (
             <div ref={this.primaryDiv} className="team" id="team">
                 <div className="team-title">
-                    <h2>Our Team</h2>
-                    <p>Everyone on this list is either actively helping out at Spawnpoint or part of our awesome Discord team!</p>
+                    <h2>{this.props.title}</h2>
+                    <p>{this.props.desc}</p>
                 </div>
                 <div className="team-list">
                     {this.props.members.map((member, index) => {
