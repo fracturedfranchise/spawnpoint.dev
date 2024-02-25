@@ -67,7 +67,7 @@ function App() {
                         {
                             name: "Torre",
                             role: "2D Artist & Graphics Designer",
-                            image: "https://avatars.githubusercontent.com/u/83478397?v=4",
+                            image: "https://i.imgur.com/X1NTKJr.png",
                             link: "https://www.roblox.com/users/406236/profile"
                         },
                         {
@@ -77,10 +77,10 @@ function App() {
                             link: "https://twitter.com/katsterlingfan"
                         },
                         {
-                            name: "test",
-                            role: "Manager",
-                            image: "https://avatars.githubusercontent.com/u/83478397?v=4",
-                            link: "https://www.roblox.com/users/145869236/profile"
+                            name: "Ritoriam",
+                            role: "Quality Assurance",
+                            image: "https://i.imgur.com/jCGcAuM.jpeg",
+                            link: "https://twitter.com/Ritoriam3D"
                         },
                     ]
                 }></Team>
