@@ -71,10 +71,10 @@ function App() {
                             link: "https://www.roblox.com/users/406236/profile"
                         },
                         {
-                            name: "test",
-                            role: "Manager",
-                            image: "https://avatars.githubusercontent.com/u/83478397?v=4",
-                            link: "https://www.roblox.com/users/107879863/profile"
+                            name: "katfanf",
+                            role: "Marketing & Moderation",
+                            image: "https://i.imgur.com/YolqnqA.png",
+                            link: "https://twitter.com/katsterlingfan"
                         },
                         {
                             name: "test",
