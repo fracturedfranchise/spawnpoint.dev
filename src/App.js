@@ -72,33 +72,45 @@ function App() {
                         },
                         {
                             name: "katfanf",
+                            role: "Voice Acting",
+                            image: "https://i.imgur.com/J1vgpkf.png",
+                            link: "https://twitter.com/SpringyTheC_S"
+                        },
+                        {
+                            name: "katfanf",
                             role: "Marketing & Moderation",
                             image: "https://i.imgur.com/YolqnqA.png",
                             link: "https://twitter.com/katsterlingfan"
                         },
                         {
                             name: "Ritoriam",
-                            role: "Quality Assurance",
+                            role: "QA",
                             image: "https://i.imgur.com/jCGcAuM.jpeg",
                             link: "https://twitter.com/Ritoriam3D"
                         },
                         {
                             name: "ToxZinn",
-                            role: "Lead Moderation, Quality Assurance",
+                            role: "Lead Discord Moderation",
                             image: "https://i.imgur.com/qlUdwgF.png",
                             link: "https://twitter.com/ToxZinn"
                         },
                         {
-                            name: "Ritoriam",
+                            name: "Vintii",
                             role: "Quality Assurance",
-                            image: "https://i.imgur.com/jCGcAuM.jpeg",
+                            image: "https://i.imgur.com/CXap13i.png",
                             link: "https://twitter.com/Ritoriam3D"
                         },
                         {
-                            name: "Ritoriam",
+                            name: "Fredder Fastbear",
                             role: "Quality Assurance",
-                            image: "https://i.imgur.com/jCGcAuM.jpeg",
-                            link: "https://twitter.com/Ritoriam3D"
+                            image: "https://i.imgur.com/BiordUD.png",
+                            link: "https://twitter.com/fredderfastbear"
+                        },
+                        {
+                            name: "ElementEarth",
+                            role: "Discord Moderation",
+                            image: "https://i.imgur.com/i37zrVI.jpeg",
+                            link: "https://x.com/elementearth100"
                         },
                         
                     ]
