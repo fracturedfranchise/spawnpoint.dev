@@ -68,7 +68,7 @@ function App() {
                             name: "Torre",
                             role: "2D Artist & Graphics Designer",
                             image: "https://i.imgur.com/X1NTKJr.png",
-                            link: "https://www.roblox.com/users/406236/profile"
+                            link: "https://twitter.com/TorreTheFool"
                         },
                         {
                             name: "katfanf",
@@ -82,6 +82,25 @@ function App() {
                             image: "https://i.imgur.com/jCGcAuM.jpeg",
                             link: "https://twitter.com/Ritoriam3D"
                         },
+                        {
+                            name: "ToxZinn",
+                            role: "Lead Moderation, Quality Assurance",
+                            image: "https://i.imgur.com/qlUdwgF.png",
+                            link: "https://twitter.com/ToxZinn"
+                        },
+                        {
+                            name: "Ritoriam",
+                            role: "Quality Assurance",
+                            image: "https://i.imgur.com/jCGcAuM.jpeg",
+                            link: "https://twitter.com/Ritoriam3D"
+                        },
+                        {
+                            name: "Ritoriam",
+                            role: "Quality Assurance",
+                            image: "https://i.imgur.com/jCGcAuM.jpeg",
+                            link: "https://twitter.com/Ritoriam3D"
+                        },
+                        
                     ]
                 }></Team>
             </div>
