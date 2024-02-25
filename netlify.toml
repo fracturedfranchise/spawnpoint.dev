@@ -1,7 +1,4 @@
 # Branch-specific settings for "play" branch
-[[context]]
-  branch = "play"  # Specify the branch name
-
-  # No build command is specified, so no build process will be triggered
-  # You only need to specify the publish directory
-  publish = "."  # Assuming the static HTML code is located in the root directory of the "play" branch
+[context.play]  # Use the branch name as the context identifier
+  publish = "."  # Specify the directory to publish for this branch
+  command = "echo 'nuh uh'"
