@@ -9,6 +9,8 @@ redirects = []
 package = "@netlify/plugin-lighthouse"
 pinned_version = "6"
 origin = "ui"
+[[plugins.inputs.audits]]
+    path = "build"
 
 [plugins.inputs]
 
