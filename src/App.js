@@ -77,6 +77,12 @@ function App() {
                     ref={teamRef} members={
                         [
                             {
+                                name: "BackspaceRGB",
+                                role: "Occasional Programmer",
+                                image: "https://i.imgur.com/yO67tZe.png",
+                                link: "https://www.roblox.com/users/330661714/profile"
+                            },
+                            {
                                 name: "Springy",
                                 role: "Voice Acting",
                                 image: "https://i.imgur.com/J1vgpkf.png",

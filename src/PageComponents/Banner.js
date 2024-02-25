@@ -21,7 +21,7 @@ class Banner extends React.Component {
                 <img className="banner-background" src={Background} alt="Banner Background"></img>
                 <div className="banner-content">
                     <h1>Spawnpoint Interactive</h1>
-                    <p>A group of <b>5 passionate developers</b> with a goal of creating top-notch FNAF experiences on Roblox!</p>
+                    <p>A group of <b>6 passionate developers</b> with a goal of creating top-notch FNAF experiences on Roblox!</p>
                     <div className="banner-buttons">
                         <Button type="discord" link="https://discord.gg/spawnpoint-interactive"><img src={DiscordIcon} alt="Discord Icon"></img>Join the Discord</Button>
                         <Button type="roblox" link="https://www.roblox.com/groups/3024886"><img src={RobloxIcon} alt="Roblox Icon"></img>Join the Roblox Group</Button>
