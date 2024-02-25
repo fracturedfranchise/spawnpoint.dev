@@ -36,6 +36,12 @@ function App() {
                     ref={teamRef} members={
                         [
                             {
+                                name: "Fazey",
+                                role: "Founder, Music, Environments, Models",
+                                image: "https://i.imgur.com/iM4wkUn.png",
+                                link: "https://www.roblox.com/users/94162462/profile"
+                            },
+                            {
                                 name: "Zwei",
                                 role: "Lead Gameplay Engineer",
                                 image: "https://avatars.githubusercontent.com/u/83478397?v=4",
@@ -52,12 +58,6 @@ function App() {
                                 role: "Lead Project Manager & Marketing",
                                 image: "https://i.imgur.com/FKLij8A.png",
                                 link: "https://www.roblox.com/users/96565404/profile"
-                            },
-                            {
-                                name: "Fazey",
-                                role: "Founder, Music, Environments, Models",
-                                image: "https://i.imgur.com/iM4wkUn.png",
-                                link: "https://www.roblox.com/users/94162462/profile"
                             },
                             {
                                 name: "JkGb",
