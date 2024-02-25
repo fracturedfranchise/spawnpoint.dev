@@ -112,6 +112,12 @@ function App() {
                                 link: "https://twitter.com/ToxZinn"
                             },
                             {
+                                name: "Mushyfoxy",
+                                role: "Discord Moderation",
+                                image: "https://i.imgur.com/Q6YTdbp.png",
+                                link: "https://www.roblox.com/users/634645974/profile"
+                            },
+                            {
                                 name: "ElementEarth",
                                 role: "Discord Moderation",
                                 image: "https://i.imgur.com/i37zrVI.jpeg",
@@ -139,6 +145,12 @@ function App() {
                                 role: "QA",
                                 image: "https://i.imgur.com/BiordUD.png",
                                 link: "https://twitter.com/fredderfastbear"
+                            },
+                            {
+                                name: "FE4RR_FUL",
+                                role: "QA",
+                                image: "https://i.imgur.com/YBh0ZSt.png",
+                                link: "https://www.roblox.com/users/124273950/profile"
                             },
                             {
                                 name: "Khaled",
