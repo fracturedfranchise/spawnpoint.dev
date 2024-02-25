@@ -83,6 +83,12 @@ function App() {
                                 link: "https://www.roblox.com/users/330661714/profile"
                             },
                             {
+                                name: "DevelopLogan",
+                                role: "Event Developer",
+                                image: "https://i.imgur.com/kq0w78n.png",
+                                link: "https://twitter.com/DevelopLogan"
+                            },
+                            {
                                 name: "Springy",
                                 role: "Voice Acting",
                                 image: "https://i.imgur.com/J1vgpkf.png",
