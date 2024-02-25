@@ -141,12 +141,6 @@ function App() {
                                 link: "https://twitter.com/Ritoriam3D"
                             },
                             {
-                                name: "Vintii",
-                                role: "QA",
-                                image: "https://i.imgur.com/CXap13i.png",
-                                link: ""
-                            },
-                            {
                                 name: "Fredder Fastbear",
                                 role: "QA",
                                 image: "https://i.imgur.com/BiordUD.png",
@@ -163,7 +157,25 @@ function App() {
                                 role: "QA",
                                 image: "https://i.imgur.com/HQyRmWF.png",
                                 link: "https://twitter.com/DarkestSFMZ"
-                            }
+                            },
+                            {
+                                name: "Vintii",
+                                role: "QA",
+                                image: "https://i.imgur.com/CXap13i.png",
+                                link: ""
+                            },
+                            {
+                                name: "crem800",
+                                role: "QA",
+                                image: "https://i.imgur.com/Hcv2bhO.png",
+                                link: "https://www.roblox.com/users/54568537/profile"
+                            },
+                            {
+                                name: "Aloteran",
+                                role: "QA",
+                                image: "https://i.imgur.com/7msZaAC.png",
+                                link: "https://twitter.com/AloteranReal"
+                            },
                         ]
                     }></Team>
             </div>
