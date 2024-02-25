@@ -1,24 +1,7 @@
-headers = []
-redirects = []
-
-[build]
-publish = "C:\\Users\\wyatt\\Desktop\\Spawnpoint Interactive\\website\\spawnpoint.dev\\build"
-publishOrigin = "ui"
-command = "npm run build"
-commandOrigin = "ui"
-
-[build.environment]
-[build.processing]
-[build.processing.css]
-[build.processing.html]
-[build.processing.images]
-[build.processing.js]
-[build.services]
-
-# Branch-specific settings
-[context]
+# Branch-specific settings for "play" branch
+[[context]]
   branch = "play"  # Specify the branch name
 
   # No build command is specified, so no build process will be triggered
-  publish = "./play"  # Specify the directory to publish for this branch
-  command = "echo 'This is a static page. No build process triggered.'"  # Optional: Provide a command just for reference or documentation
+  # You only need to specify the publish directory
+  publish = "."  # Assuming the static HTML code is located in the root directory of the "play" branch
