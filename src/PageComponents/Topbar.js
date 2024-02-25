@@ -1,6 +1,6 @@
 import React from "react";
 
-import TDIcon from "../Images/TD_Icon.svg"
+import TDIcon from "../Images/Spawnpoint.svg"
 
 import "./Topbar.scss"
 
