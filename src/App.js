@@ -41,6 +41,12 @@ function App() {
                             link: "https://www.roblox.com/users/193503404/profile"
                         },
                         {
+                            name: "Nissanette",
+                            role: "Lead 3D Artist",
+                            image: "https://i.imgur.com/IZEz0ff.png",
+                            link: "https://www.roblox.com/users/193503404/profile"
+                        },
+                        {
                             name: "Polly",
                             role: "Lead Project Manager & Marketing",
                             image: "https://i.imgur.com/FKLij8A.png",
@@ -49,18 +55,18 @@ function App() {
                         {
                             name: "Fazey",
                             role: "Founder, Music, Environments, Models",
-                            image: "https://i.imgur.com/XI81xSv.png",
+                            image: "https://i.imgur.com/iM4wkUn.png",
                             link: "https://www.roblox.com/users/94162462/profile"
                         },
                         {
-                            name: "test",
-                            role: "Builder",
-                            image: "https://avatars.githubusercontent.com/u/83478397?v=4",
-                            link: "https://www.roblox.com/users/1310236768/profile"
+                            name: "JkGb",
+                            role: "Lead Animator",
+                            image: "https://i.imgur.com/IYPQiyi.png",
+                            link: "https://www.roblox.com/users/128307136/profile"
                         },
                         {
-                            name: "test",
-                            role: "Scripter",
+                            name: "Torre",
+                            role: "2D Artist & Graphics Designer",
                             image: "https://avatars.githubusercontent.com/u/83478397?v=4",
                             link: "https://www.roblox.com/users/406236/profile"
                         },
