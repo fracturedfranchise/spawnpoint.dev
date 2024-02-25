@@ -1,4 +1,3 @@
-plugins = []
 headers = []
 redirects = []
 
@@ -6,11 +5,18 @@ redirects = []
 
 [functions."*"]
 
+[[plugins]]
+package = "@netlify/plugin-lighthouse"
+pinned_version = "6"
+origin = "ui"
+
+[plugins.inputs]
+
 [build]
-publish = "build"
-publishOrigin = "default"
+publish = "C:\\Users\\wyatt\\Desktop\\Spawnpoint Interactive\\website\\spawnpoint.dev\\build"
+publishOrigin = "ui"
 command = "npm run build"
-commandOrigin = "heuristics"
+commandOrigin = "ui"
 
 [build.environment]
 
