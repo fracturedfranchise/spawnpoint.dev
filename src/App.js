@@ -70,60 +70,6 @@ function App() {
                                 role: "2D Artist & Graphics Designer",
                                 image: "https://i.imgur.com/X1NTKJr.png",
                                 link: "https://twitter.com/TorreTheFool"
-                            },
-                            {
-                                name: "Springy",
-                                role: "Voice Acting",
-                                image: "https://i.imgur.com/J1vgpkf.png",
-                                link: "https://twitter.com/SpringyTheC_S"
-                            },
-                            {
-                                name: "katfanf",
-                                role: "Marketing & Moderation",
-                                image: "https://i.imgur.com/YolqnqA.png",
-                                link: "https://twitter.com/katsterlingfan"
-                            },
-                            {
-                                name: "Ritoriam",
-                                role: "QA",
-                                image: "https://i.imgur.com/jCGcAuM.jpeg",
-                                link: "https://twitter.com/Ritoriam3D"
-                            },
-                            {
-                                name: "ToxZinn",
-                                role: "Lead Discord Moderation",
-                                image: "https://i.imgur.com/qlUdwgF.png",
-                                link: "https://twitter.com/ToxZinn"
-                            },
-                            {
-                                name: "Vintii",
-                                role: "QA",
-                                image: "https://i.imgur.com/CXap13i.png",
-                                link: ""
-                            },
-                            {
-                                name: "Fredder Fastbear",
-                                role: "QA",
-                                image: "https://i.imgur.com/BiordUD.png",
-                                link: "https://twitter.com/fredderfastbear"
-                            },
-                            {
-                                name: "ElementEarth",
-                                role: "Discord Moderation",
-                                image: "https://i.imgur.com/i37zrVI.jpeg",
-                                link: "https://x.com/elementearth100"
-                            },
-                            {
-                                name: "lolmansreturn",
-                                role: "Programming Helper",
-                                image: "https://i.imgur.com/VVcPfJG.png",
-                                link: ""
-                            },
-                            {
-                                name: "Khaled",
-                                role: "QA",
-                                image: "https://i.imgur.com/HQyRmWF.png",
-                                link: "https://twitter.com/DarkestSFMZ"
                             }
                         ]
                     }></Team>
