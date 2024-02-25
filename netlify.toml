@@ -1,6 +1,12 @@
+# Global build settings
 [build]
-  command = "npm run build"
+  # command = "npm run build"  # Optionally, you can specify a build command for other branches
+  publish = "public"  # Specify the directory to publish for other branches
 
+# Branch-specific settings
 [[context]]
-  branch = "main"
-  command = "npm run build"
+  branch = "play"  # Specify the branch name
+
+  # No build command is specified, so no build process will be triggered
+  publish = "./"  # Specify the directory to publish for this branch
+  command = "echo 'This is a static page. No build process triggered.'"  # Optional: Provide a command just for reference or documentation
