@@ -45,7 +45,7 @@ function App() {
                                 name: "Nissanette",
                                 role: "Lead 3D Artist",
                                 image: "https://i.imgur.com/IZEz0ff.png",
-                                link: "https://www.roblox.com/users/193503404/profile"
+                                link: "https://www.roblox.com/users/97803966/profile"
                             },
                             {
                                 name: "Polly",
