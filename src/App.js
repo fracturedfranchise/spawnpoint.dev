@@ -159,6 +159,12 @@ function App() {
                                 link: "https://twitter.com/DarkestSFMZ"
                             },
                             {
+                                name: "TheRealThing",
+                                role: "QA",
+                                image: "https://i.imgur.com/qrutcE6.png",
+                                link: "https://www.roblox.com/users/1792112123/profile"
+                            },
+                            {
                                 name: "Vintii",
                                 role: "QA",
                                 image: "https://i.imgur.com/CXap13i.png",
