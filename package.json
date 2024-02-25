@@ -1,7 +1,7 @@
 {
   "name": "spawnpoint-home-page",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "homepage": "build",
   "dependencies": {
     "@condenast/xml-to-react": "^1.0.0",
