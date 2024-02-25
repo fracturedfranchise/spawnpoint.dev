@@ -22,9 +22,7 @@ function App() {
                         {
                             image: "https://tr.rbxcdn.com/3be7abea60a2b51e79ef87415ba0b2b2/768/432/Image/Png",
                             title: "🐻 Fractured Franchise",
-                            description: `💥 NEW PROP HUNT MAP & GUN UNLOCKING AT 10K LIKES!
-
-                            🐻 Immerse yourself in a Five Nights at Freddy's experience like never before with the debut of the FNAF MOVIE MAP and FNAF PROP HUNT! Play as beloved characters from the franchise, take on the role of a nightguard, or simply delve into the eerie world of Freddy's!
+                            description: `🐻 Immerse yourself in a Five Nights at Freddy's experience like never before with the debut of the FNAF MOVIE MAP and FNAF PROP HUNT! Play as beloved characters from the franchise, take on the role of a nightguard, or simply delve into the eerie world of Freddy's!
                             
                             📝 Updates for our game may take some time, but rest assured, each one is filled with fresh, exciting content!!
                             
