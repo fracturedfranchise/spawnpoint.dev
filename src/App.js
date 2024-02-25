@@ -98,7 +98,7 @@ function App() {
                                 name: "lolmansreturn",
                                 role: "Programming Helper",
                                 image: "https://i.imgur.com/VVcPfJG.png",
-                                link: ""
+                                link: "https://github.com/lolmansReturn"
                             }
                         ]
                     }></Team>

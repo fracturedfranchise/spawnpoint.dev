@@ -51,9 +51,9 @@ class Topbar extends React.Component {
                     <h1>Spawnpoint Interactive</h1>
                 </div>
                 <div className="topbar-links">
-                    <a href="javascript:void(0)" className={active === "about" ? "active" : "inactive"} onClick={() => this.jumpTo("about")}>About</a>
-                    <a href="javascript:void(0)" className={active === "experiences" ? "active" : "inactive"} onClick={() => this.jumpTo("experiences")}>Experiences</a>
-                    <a href="javascript:void(0)" className={active === "team" ? "active" : "inactive"} onClick={() => this.jumpTo("team")}>The Team</a>
+                    <a href="" className={active === "about" ? "active" : "inactive"} onClick={() => this.jumpTo("about")}>About</a>
+                    <a href="" className={active === "experiences" ? "active" : "inactive"} onClick={() => this.jumpTo("experiences")}>Experiences</a>
+                    <a href="" className={active === "team" ? "active" : "inactive"} onClick={() => this.jumpTo("team")}>The Team</a>
                 </div>
             </div>
         )
