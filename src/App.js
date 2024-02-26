@@ -70,6 +70,12 @@ function App() {
                                 role: "2D Artist & Graphics Designer",
                                 image: "https://i.imgur.com/X1NTKJr.png",
                                 link: "https://twitter.com/TorreTheFool"
+                            },
+                            {
+                                name: "Sarah",
+                                role: "3D Artist",
+                                image: "https://i.imgur.com/4yCqyil.png",
+                                link: "https://www.roblox.com/users/180000298/profile"
                             }
                         ]
                     }></Team>
@@ -78,13 +84,13 @@ function App() {
                         [
                             {
                                 name: "BackspaceRGB",
-                                role: "Occasional Programmer",
+                                role: "Programmer",
                                 image: "https://i.imgur.com/yO67tZe.png",
                                 link: "https://www.roblox.com/users/330661714/profile"
                             },
                             {
                                 name: "DevelopLogan",
-                                role: "Event Developer",
+                                role: "Cinematic Shots & VFX",
                                 image: "https://i.imgur.com/kq0w78n.png",
                                 link: "https://twitter.com/DevelopLogan"
                             },
@@ -105,6 +111,12 @@ function App() {
                                 role: "Programming Helper",
                                 image: "https://i.imgur.com/VVcPfJG.png",
                                 link: "https://github.com/lolmansReturn"
+                            },
+                            {
+                                name: "odeadspace",
+                                role: "3D Artist",
+                                image: "https://i.imgur.com/GOy543c.png",
+                                link: "https://twitter.com/odeadspace"
                             }
                         ]
                     }></Team>
