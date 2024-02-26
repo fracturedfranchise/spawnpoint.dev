@@ -1,6 +1,6 @@
 import React from "react";
 
-import TDIcon from "../Images/Spawnpoint.svg"
+import SpawnpointIcon from "../Images/Spawnpoint.svg"
 
 import "./Topbar.scss"
 
@@ -47,7 +47,7 @@ class Topbar extends React.Component {
         return (
             <div className="topbar">
                 <div className="topbar-logo">
-                    <img alt="TD" src={TDIcon}></img>
+                    <img alt="Spawnpoint" src={SpawnpointIcon}></img>
                     <h1>Spawnpoint Interactive</h1>
                 </div>
                 <div className="topbar-links">
