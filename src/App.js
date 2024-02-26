@@ -80,7 +80,7 @@ function App() {
                         ]
                     }></Team>
                 <Team title="Contributors" desc="People who contribute to the game occasionally."
-                    ref={teamRef} members={
+                     members={
                         [
                             {
                                 name: "BackspaceRGB",
@@ -121,7 +121,7 @@ function App() {
                         ]
                     }></Team>
                 <Team title="Discord Staff" desc="Our awesome Discord team!"
-                    ref={teamRef} members={
+                     members={
                         [
                             {
                                 name: "ToxZinn",
@@ -144,7 +144,7 @@ function App() {
                         ]
                     }></Team>
                 <Team title="QA" desc="Our amazing QA team!"
-                    ref={teamRef} members={
+                    members={
                         [
                             {
                                 name: "Ritoriam",
