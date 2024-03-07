@@ -59,12 +59,7 @@ function App() {
                                 image: "https://i.imgur.com/FKLij8A.png",
                                 link: "https://www.roblox.com/users/96565404/profile"
                             },
-                            {
-                                name: "JkGb",
-                                role: "Lead Animator",
-                                image: "https://i.imgur.com/IYPQiyi.png",
-                                link: "https://www.roblox.com/users/128307136/profile"
-                            },
+                        
                             {
                                 name: "Torre",
                                 role: "2D Artist & Graphics Designer",
@@ -82,6 +77,12 @@ function App() {
                 <Team title="Contributors" desc="People who contribute to the game occasionally."
                      members={
                         [
+                            {
+                                name: "JkGb",
+                                role: "Animator",
+                                image: "https://i.imgur.com/IYPQiyi.png",
+                                link: "https://www.roblox.com/users/128307136/profile"
+                            },
                             {
                                 name: "BackspaceRGB",
                                 role: "Programmer",
