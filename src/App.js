@@ -154,6 +154,12 @@ function App() {
                                 link: "https://twitter.com/Ritoriam3D"
                             },
                             {
+                                name: "Duo",
+                                role: "QA",
+                                image: "https://i.imgur.com/MCGnxxZ.png",
+                                link: "https://www.roblox.com/users/1593202495/profile"
+                            },
+                            {
                                 name: "Fredder Fastbear",
                                 role: "QA",
                                 image: "https://i.imgur.com/BiordUD.png",
