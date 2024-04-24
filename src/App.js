@@ -90,12 +90,6 @@ function App() {
                                 link: "https://www.roblox.com/users/330661714/profile"
                             },
                             {
-                                name: "DevelopLogan",
-                                role: "Cinematic Shots & VFX",
-                                image: "https://i.imgur.com/kq0w78n.png",
-                                link: "https://twitter.com/DevelopLogan"
-                            },
-                            {
                                 name: "Springy",
                                 role: "Voice Acting",
                                 image: "https://i.imgur.com/J1vgpkf.png",
@@ -126,7 +120,7 @@ function App() {
                         [
                             {
                                 name: "ToxZinn",
-                                role: "Lead Discord Moderation",
+                                role: "Discord Moderation",
                                 image: "https://i.imgur.com/qlUdwgF.png",
                                 link: "https://twitter.com/ToxZinn"
                             },
@@ -138,6 +132,12 @@ function App() {
                             },
                             {
                                 name: "ElementEarth",
+                                role: "Discord Moderation",
+                                image: "https://i.imgur.com/i37zrVI.jpeg",
+                                link: "https://x.com/elementearth100"
+                            },
+                            {
+                                name: "Eddison",
                                 role: "Discord Moderation",
                                 image: "https://i.imgur.com/i37zrVI.jpeg",
                                 link: "https://x.com/elementearth100"
