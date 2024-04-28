@@ -139,8 +139,8 @@ function App() {
                             {
                                 name: "Eddison",
                                 role: "Discord Moderation",
-                                image: "https://i.imgur.com/i37zrVI.jpeg",
-                                link: "https://x.com/elementearth100"
+                                image: "https://i.imgur.com/aK3PHAQ.jpeg",
+                                link: "https://www.roblox.com/users/149477778/profile"
                             }
                         ]
                     }></Team>
