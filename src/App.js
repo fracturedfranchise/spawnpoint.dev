@@ -96,6 +96,12 @@ function App() {
                                 link: "https://twitter.com/SpringyTheC_S"
                             },
                             {
+                                name: "ToxZinn",
+                                role: "Concept Art",
+                                image: "https://i.imgur.com/qlUdwgF.png",
+                                link: "https://twitter.com/ToxZinn"
+                            },
+                            {
                                 name: "katfanf",
                                 role: "Marketing & Moderation",
                                 image: "https://i.imgur.com/YolqnqA.png",
@@ -118,12 +124,6 @@ function App() {
                 <Team title="Discord Staff" desc="Our awesome Discord team!"
                      members={
                         [
-                            {
-                                name: "ToxZinn",
-                                role: "Discord Moderation",
-                                image: "https://i.imgur.com/qlUdwgF.png",
-                                link: "https://twitter.com/ToxZinn"
-                            },
                             {
                                 name: "Mushyfoxy",
                                 role: "Discord Moderation",
