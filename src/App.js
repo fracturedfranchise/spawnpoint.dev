@@ -108,10 +108,10 @@ function App() {
                                 link: "https://twitter.com/katsterlingfan"
                             },
                             {
-                                name: "lolmansreturn",
+                                name: "2jammers",
                                 role: "Programming Helper",
-                                image: "https://i.imgur.com/VVcPfJG.png",
-                                link: "https://github.com/lolmansReturn"
+                                image: "https://i.imgur.com/my6Blz7.jpeg",
+                                link: "https://github.com/2jammers"
                             },
                             {
                                 name: "odeadspace",
