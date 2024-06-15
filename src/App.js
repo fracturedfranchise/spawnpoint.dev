@@ -143,12 +143,6 @@ function App() {
                                 link: "https://www.roblox.com/users/50402975/profile"
                             },
                             {
-                                name: "Mushyfoxy",
-                                role: "Discord Moderation",
-                                image: "https://i.imgur.com/Q6YTdbp.png",
-                                link: "https://www.roblox.com/users/634645974/profile"
-                            },
-                            {
                                 name: "ElementEarth",
                                 role: "Discord Moderation",
                                 image: "https://i.imgur.com/i37zrVI.jpeg",
@@ -204,7 +198,7 @@ function App() {
                             {
                                 name: "Alphon",
                                 role: "QA",
-                                image: "https://i.imgur.com/CXap13i.png",
+                                image: "https://i.imgur.com/hLTaHmN.png",
                                 link: "https://www.roblox.com/users/628637772/profile"
                             },
                             {
