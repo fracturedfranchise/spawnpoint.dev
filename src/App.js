@@ -59,7 +59,12 @@ function App() {
                                 image: "https://i.imgur.com/FKLij8A.png",
                                 link: "https://www.roblox.com/users/96565404/profile"
                             },
-                        
+                            {
+                                name: "Immortion",
+                                role: "Lead 3D Animator",
+                                image: " https://i.imgur.com/NrZkBlA.png",
+                                link: "https://www.roblox.com/users/90738762/profile"
+                            },
                             {
                                 name: "Torre",
                                 role: "2D Artist & Graphics Designer",
@@ -72,6 +77,7 @@ function App() {
                                 image: "https://i.imgur.com/4yCqyil.png",
                                 link: "https://www.roblox.com/users/180000298/profile"
                             }
+                           
                         ]
                     }></Team>
                 <Team title="Contributors" desc="People who contribute to the game occasionally."
@@ -126,6 +132,18 @@ function App() {
                         [
                             {
                                 name: "Mushyfoxy",
+                                role: "Head of Discord Moderation",
+                                image: "https://i.imgur.com/Q6YTdbp.png",
+                                link: "https://www.roblox.com/users/634645974/profile"
+                            },
+                            {
+                                name: "G4V1N",
+                                role: "Discord Moderation",
+                                image: "https://i.imgur.com/lRaXLrj.png",
+                                link: "https://www.roblox.com/users/50402975/profile"
+                            },
+                            {
+                                name: "Mushyfoxy",
                                 role: "Discord Moderation",
                                 image: "https://i.imgur.com/Q6YTdbp.png",
                                 link: "https://www.roblox.com/users/634645974/profile"
@@ -156,7 +174,7 @@ function App() {
                             {
                                 name: "Duo",
                                 role: "QA",
-                                image: "https://i.imgur.com/MCGnxxZ.png",
+                                image: "https://i.imgur.com/a7dYzQ4.jpeg",
                                 link: "https://www.roblox.com/users/1593202495/profile"
                             },
                             {
@@ -182,6 +200,12 @@ function App() {
                                 role: "QA",
                                 image: "https://i.imgur.com/qrutcE6.png",
                                 link: "https://www.roblox.com/users/1792112123/profile"
+                            },
+                            {
+                                name: "Alphon",
+                                role: "QA",
+                                image: "https://i.imgur.com/CXap13i.png",
+                                link: "https://www.roblox.com/users/628637772/profile"
                             },
                             {
                                 name: "Vintii",
