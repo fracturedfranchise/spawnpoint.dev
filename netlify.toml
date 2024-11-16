@@ -1,4 +1,4 @@
 # Branch-specific settings for "play" branch
-[context.play]  # Use the branch name as the context identifier
+[context.beta]  # Use the branch name as the context identifier
   publish = "./"  # Specify the root directory to publish for this branch
   command = ""  # Set the build command to echo "nuh uh"
