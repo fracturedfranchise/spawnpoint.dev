@@ -50,7 +50,7 @@ function App() {
                             {
                                 name: "Nissanette",
                                 role: "Lead 3D Artist",
-                                image: "https://i.imgur.com/IZEz0ff.png",
+                                image: "https://i.imgur.com/s1lPG9d.png",
                                 link: "https://www.roblox.com/users/97803966/profile"
                             },
                             {
@@ -71,12 +71,12 @@ function App() {
                                 image: "https://i.imgur.com/X1NTKJr.png",
                                 link: "https://twitter.com/TorreTheFool"
                             },
-                            {
-                                name: "Sarah",
-                                role: "3D Artist",
-                                image: "https://i.imgur.com/4yCqyil.png",
-                                link: "https://www.roblox.com/users/180000298/profile"
-                            }
+                            // {
+                            //     name: "Sarah",
+                            //     role: "3D Artist",
+                            //     image: "https://i.imgur.com/4yCqyil.png",
+                            //     link: "https://www.roblox.com/users/180000298/profile"
+                            // }
                            
                         ]
                     }></Team>
@@ -101,41 +101,20 @@ function App() {
                                 image: "https://i.imgur.com/J1vgpkf.png",
                                 link: "https://twitter.com/SpringyTheC_S"
                             },
-                            {
-                                name: "ToxZinn",
-                                role: "Concept Art",
-                                image: "https://i.imgur.com/qlUdwgF.png",
-                                link: "https://twitter.com/ToxZinn"
-                            },
+                           
                             {
                                 name: "katfanf",
                                 role: "Marketing & Moderation",
                                 image: "https://i.imgur.com/YolqnqA.png",
                                 link: "https://twitter.com/katsterlingfan"
                             },
-                            {
-                                name: "2jammers",
-                                role: "Programming Helper",
-                                image: "https://i.imgur.com/my6Blz7.jpeg",
-                                link: "https://github.com/2jammers"
-                            },
-                            {
-                                name: "odeadspace",
-                                role: "3D Artist",
-                                image: "https://i.imgur.com/GOy543c.png",
-                                link: "https://twitter.com/odeadspace"
-                            }
+                           
                         ]
                     }></Team>
                 <Team title="Discord Staff" desc="Our awesome Discord team!"
                      members={
                         [
-                            {
-                                name: "Mushyfoxy",
-                                role: "Head of Discord Moderation",
-                                image: "https://i.imgur.com/Q6YTdbp.png",
-                                link: "https://www.roblox.com/users/634645974/profile"
-                            },
+                           
                             {
                                 name: "G4V1N",
                                 role: "Discord Moderation",
@@ -156,7 +135,7 @@ function App() {
                             }
                         ]
                     }></Team>
-                <Team title="QA" desc="Our amazing QA team!"
+                {/* <Team title="QA" desc="Our amazing QA team!"
                     members={
                         [
                             {
@@ -220,7 +199,7 @@ function App() {
                                 link: "https://twitter.com/AloteranReal"
                             },
                         ]
-                    }></Team>
+                    }></Team> */}
             </div>
         </div>
     );
