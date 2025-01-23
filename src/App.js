@@ -83,12 +83,12 @@ function App() {
                 <Team title="Contributors" desc="People who contribute to the game occasionally."
                      members={
                         [
-                            {
-                                name: "JkGb",
-                                role: "Animator",
-                                image: "https://i.imgur.com/IYPQiyi.png",
-                                link: "https://www.roblox.com/users/128307136/profile"
-                            },
+                            // {
+                            //     name: "JkGb",
+                            //     role: "Animator",
+                            //     image: "https://i.imgur.com/IYPQiyi.png",
+                            //     link: "https://www.roblox.com/users/128307136/profile"
+                            // },
                             {
                                 name: "BackspaceRGB",
                                 role: "Programmer",
